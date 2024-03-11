@@ -21,4 +21,4 @@
 
 😄 Pronomes: Ele/Dele
 
-No meu GitHub, @dev-thiagorosario, você pode acompanhar meu progresso nos cursos que realizei ao longo da minha jornada de aprendizado. Cada repositório é nomeado após um dos cursos que completei ou estou cursando atualmente. Além disso, você pode explorar meu portfólio, que inclui aplicações web e jogos desenvolvidos durante meus estudos até agora.
+No meu GitHub, @dev-thiagorosario, você pode acompanhar meu progresso nos cursos que realizei ao longo da minha jornada de aprendizado. Cada repositório é nomeado após um dos cursos que completei ou estou cursando atualmente. Além disso, você pode explorar meu portfólio em devthiagosouza.com, que inclui aplicações web e jogos desenvolvidos durante meus estudos até agora.
