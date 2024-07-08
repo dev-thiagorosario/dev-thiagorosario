@@ -1,30 +1,59 @@
-👋 Olá, sou @dev-thiagorosario.
+# Welcome to My GitHub Profile
 
-👀 Estou constantemente em busca de evolução pessoal e profissional, sempre almejando expandir meus conhecimentos em tecnologia e desenvolvimento de software.
+👋 Hi, I'm @dev-thiagorosario
 
-🌱 Atualmente, meu foco está no desenvolvimento fullstack, com ênfase no back-end usando Java e Spring Framework. Além disso, dedico-me ao front-end, utilizando tecnologias como React, HTML, CSS, JavaScript e Angular.
+I'm a 24-year-old Computer Engineering student at Universidade Jorge Amado, expected to graduate in 2025. As a full-stack developer, my skill set includes:
 
-Desenvolvimento Fullstack
-Back-End: Possuo expertise em Java e Spring Framework, além de conhecimentos em C/C++ e PHP.
+- **Frontend**: JavaScript, React, Angular, HTML, CSS
+- **Backend**: Java, Spring Framework
+- **Software Development**: C/C++
+- **Database Management**: MySQL, SQLite, MongoDB, Firebase
 
-Front-End: Tenho experiência com React, HTML, CSS, JavaScript e Angular, criando interfaces de usuário atrativas e funcionais.
+## About Me
 
-Desenvolvimento Mobile: Desenvolvo aplicativos utilizando Java e Flutter, oferecendo soluções práticas e eficientes para dispositivos móveis.
+👀 I am constantly seeking personal and professional growth, always aiming to expand my knowledge in technology and software development.
 
-Gerenciamento de Banco de Dados: Tenho conhecimento em ferramentas como MySQL, SQLite, Firebase e MongoDB.
+🌱 My current focus is on full-stack development, with an emphasis on front-end technologies. I utilize tools like React, HTML, CSS, JavaScript, and Angular to create engaging and functional user interfaces.
 
-Ferramentas de Desenvolvimento:
-Utilizo ferramentas como Visual Studio Code, IntelliJ IDEA e Git para manter um fluxo de trabalho eficiente e organizado.
+## My Skills
 
-💞️ Estou sempre aberto a colaborações e a participar de projetos desafiadores que proporcionem oportunidades de crescimento.
+### Full-Stack Development
 
-📫 Contato:
+#### Front-End
+I have experience in creating attractive and functional user interfaces using:
+- JavaScript
+- React
+- Angular
+- HTML
+- CSS
 
-Email: eng.thiagosouza@icloud.com ou trosario10@icloud.com
-WhatsApp: +55 71 98429-2157
-Telefone: +55 71 99191-6245
-😄 Pronomes: Ele/Dele
+#### Back-End
+My expertise includes:
+- Java
+- Spring Framework
+- Additional knowledge in C/C++ and PHP
 
-No meu GitHub, @dev-thiagorosario, você pode acompanhar meu progresso nos cursos que realizei ao longo da minha jornada de aprendizado. Cada repositório é nomeado após um dos cursos que completei ou estou cursando atualmente. Além disso, você pode explorar meu portfólio em devthiagosouza.com, que inclui aplicações web e jogos desenvolvidos durante meus estudos.
+### Database Management
+I am proficient with:
+- MySQL
+- SQLite
+- Firebase
+- MongoDB
 
+### Development Tools
+I use tools like:
+- Visual Studio Code
+- IntelliJ IDEA
+- Git
 
+## Collaboration
+💞️ I am always open to collaborations and eager to participate in challenging projects that offer growth opportunities.
+
+## Contact
+📫 You can reach me via:
+- Email: eng.thiagosouza@icloud.com or trosario10@icloud.com
+- WhatsApp: +55 71 98429-2157
+- Phone: +55 71 99191-6245
+- Pronouns: He/Him
+
+On my GitHub, @dev-thiagorosario, you can follow my progress in the courses I have completed or am currently taking. Each repository is named after a course I've completed or am currently enrolled in. Additionally, you can explore my portfolio at devthiagosouza.com, which includes web applications and games developed during my studies.
