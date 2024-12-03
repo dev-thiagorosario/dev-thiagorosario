@@ -2,7 +2,7 @@
 
 👋 Hi, I'm @dev-thiagorosario
 
-I'm a 24-year-old Computer Engineering student at Universidade Jorge Amado, expected to graduate in 2025. As a full-stack developer, my skill set includes:
+I'm a 25-year-old Computer Engineering student at Universidade Jorge Amado, expected to graduate in 2025. As a full-stack developer, my skill set includes:
 
 - **Frontend**: JavaScript, React, Angular, HTML, CSS
 - **Backend**: Java, Spring Framework
