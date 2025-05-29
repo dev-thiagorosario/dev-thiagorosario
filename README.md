@@ -5,9 +5,8 @@
 I'm a 25-year-old Computer Engineering student at Universidade Jorge Amado, expected to graduate in 2025. As a full-stack developer, my skill set includes:
 
 - **Frontend**: JavaScript, React, Angular, HTML, CSS
-- **Backend**: Java, Spring Framework
-- **Software Development**: C/C++
-- **Database Management**: MySQL, SQLite, MongoDB, Firebase
+- **Backend**: Python: Flask, Fast API (Framework)
+- **Database Management**: MySQL, Postgree SQL
 
 ## About Me
 
@@ -29,21 +28,17 @@ I have experience in creating attractive and functional user interfaces using:
 
 #### Back-End
 My expertise includes:
-- Java
-- Spring Framework
-- Additional knowledge in C/C++ and PHP
+- Python 
+- Flask and FastAPI (Frameworks)
 
 ### Database Management
 I am proficient with:
 - MySQL
-- SQLite
-- Firebase
-- MongoDB
+- Postgree SQL
 
 ### Development Tools
 I use tools like:
 - Visual Studio Code
-- IntelliJ IDEA
 - Git
 
 ## Collaboration
