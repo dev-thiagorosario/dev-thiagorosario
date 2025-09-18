@@ -1,54 +1,52 @@
-# Welcome to My GitHub Profile
+# 👋 Hi, I'm @dev-thiagorosario  
 
-👋 Hi, I'm @dev-thiagorosario
+🎯 **Back-End Developer Junior at Conder INOVA**  
+💻 Focused on building robust and scalable solutions with **PHP, Laravel and Livewire**.  
 
-I'm a 25-year-old Computer Engineering student at Universidade Jorge Amado, expected to graduate in 2025. As a full-stack developer, my skill set includes:
+---
 
-- **Frontend**: JavaScript, React, Angular, HTML, CSS
-- **Backend**: Python: Flask, Fast API (Framework)
-- **Database Management**: MySQL, Postgree SQL
+## 🛠️ Tech Stack  
 
-## About Me
+### 🔹 Back-End (main focus)  
+- PHP  
+- Laravel  
+- Livewire  
 
-👀 I am constantly seeking personal and professional growth, always aiming to expand my knowledge in technology and software development.
+### 🔹 Databases  
+- PostgreSQL  
+- MySQL  
 
-🌱 My current focus is on full-stack development, with an emphasis on front-end technologies. I utilize tools like React, HTML, CSS, JavaScript, and Angular to create engaging and functional user interfaces.
+### 🔹 Front-End (academic & personal projects)  
+*(not my current professional focus, but part of my learning journey)*  
+- Angular  
+- HTML, CSS, JavaScript  
 
-## My Skills
+### 🔹 Other Languages & Interests  
+- Python 🐍 *(automation & security projects)*  
+- C 💻 *(low-level programming & security)*  
 
-### Full-Stack Development
+---
 
-#### Front-End
-I have experience in creating attractive and functional user interfaces using:
-- JavaScript
-- React
-- Angular
-- HTML
-- CSS
+## 🌱 About Me  
+I’m a **25-year-old Computer Engineering student at Universidade Jorge Amado (Unijorge)**, expected to graduate in 2027.  
+Currently, I work as a **Back-End Developer Junior** at **Conder INOVA**, where I apply my knowledge in PHP, Laravel and database management to support real-world projects.  
 
-#### Back-End
-My expertise includes:
-- Python 
-- Flask and FastAPI (Frameworks)
+Beyond development, I’m passionate about **cybersecurity, Linux, and ethical hacking**, always exploring how software and security come together.  
 
-### Database Management
-I am proficient with:
-- MySQL
-- Postgree SQL
+---
 
-### Development Tools
-I use tools like:
-- Visual Studio Code
-- Git
+## 🤝 Collaboration  
+I’m open to connecting with other developers, sharing knowledge, and collaborating on projects that help me grow as a **back-end developer** and strengthen my understanding of **secure software development**.  
 
-## Collaboration
-💞️ I am always open to collaborations and eager to participate in challenging projects that offer growth opportunities.
+---
 
-## Contact
-📫 You can reach me via:
-- Email: eng.thiagosouza@icloud.com or trosario10@icloud.com
-- WhatsApp: +55 71 98429-2157
-- Phone: +55 71 99191-6245
-- Pronouns: He/Him
+## 📫 Contact  
+- ✉️ Email: eng.thiagosouza@icloud.com | trosario10@icloud.com  
+- 📱 WhatsApp: +55 71 98429-2157  
+- 📞 Phone: +55 71 99191-6245  
+- 💼 LinkedIn: [Thiago Rosario](https://www.linkedin.com/in/thiago-rosario)  
+- Pronouns: He/Him  
 
-On my GitHub, @dev-thiagorosario, you can follow my progress in the courses I have completed or am currently taking. Each repository is named after a course I've completed or am currently enrolled in. Additionally, you can explore my portfolio at devthiagosouza.com, which includes web applications and games developed during my studies.
+---
+
+✨ On my GitHub (@dev-thiagorosario) you’ll find personal projects, course repositories, and experiments with different technologies — from **back-end development with PHP/Laravel** to **security-focused scripts in Python and C**.  
