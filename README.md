@@ -29,7 +29,7 @@
 
 ## 🌱 About Me  
 I’m a **25-year-old Computer Engineering student at Universidade Jorge Amado (Unijorge)**, expected to graduate in 2027.  
-Currently, I work as a **Back-End Developer Junior** at **Conder INOVA**, where I apply my knowledge in PHP, Laravel and database management to support real-world projects.  
+Currently, I work as a **Back-End Developer Junior** at **Secretaria De Segurança Publica(BA) + INOVA Team**, where I apply my knowledge in PHP, Laravel and database management to support real-world projects.  
 
 Beyond development, I’m passionate about **cybersecurity, Linux, and ethical hacking**, always exploring how software and security come together.  
 
