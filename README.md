@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @dev-thiagorosario  
 
-🎯 **Back-End Developer Junior at Conder INOVA**  
-💻 Focused on building robust and scalable solutions with **PHP, Laravel and Livewire**.  
+🎯 **Back-End Developer Junior at SSP-BA + Inova Team**  
+💻 Focused on building robust and scalable solutions with **PHP, Laravel**.  
 
 ---
 
@@ -10,7 +10,7 @@
 ### 🔹 Back-End (main focus)  
 - PHP  
 - Laravel  
-- Livewire  
+  
 
 ### 🔹 Databases  
 - PostgreSQL  
