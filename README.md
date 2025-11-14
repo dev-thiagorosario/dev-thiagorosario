@@ -14,7 +14,7 @@
 
 ### 🔹 Databases  
 - PostgreSQL  
-- MySQL  
+    
 
 ### 🔹 Front-End (academic & personal projects)  
 *(not my current professional focus, but part of my learning journey)*  
